@@ -1,0 +1,8 @@
+org\simple\engine\core\Engine.class
+org\simple\engine\repository\Repository.class
+org\simple\engine\repository\InMemoryRepository.class
+org\simple\engine\model\Document.class
+org\simple\engine\service\endpoint\ServerStarter.class
+org\simple\engine\validator\SimpleContentValidator.class
+org\simple\engine\core\EngineImpl.class
+org\simple\engine\validator\ContentValidator.class

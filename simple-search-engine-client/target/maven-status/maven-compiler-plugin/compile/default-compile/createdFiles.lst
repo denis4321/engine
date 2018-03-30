@@ -1,0 +1,12 @@
+org\simple\engine\service\endpoint\ObjectFactory.class
+org\simple\engine\service\endpoint\GetResponse.class
+org\simple\engine\service\endpoint\Server.class
+org\simple\engine\service\endpoint\GetDocumentsByTokensResponse.class
+com\engine\client\ClientStarter.class
+org\simple\engine\service\endpoint\ServerStarterService.class
+org\simple\engine\service\endpoint\Get.class
+org\simple\engine\service\endpoint\PutResponse.class
+org\simple\engine\service\endpoint\Put.class
+org\simple\engine\service\endpoint\GetDocumentsByTokens.class
+org\simple\engine\service\endpoint\Document.class
+org\simple\engine\service\endpoint\package-info.class

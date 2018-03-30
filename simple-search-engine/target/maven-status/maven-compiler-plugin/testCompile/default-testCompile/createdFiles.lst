@@ -1,0 +1,3 @@
+org\simple\engine\repository\InMemoryRepositoryTest.class
+org\simple\engine\validator\SimpleContentValidatorTest.class
+org\simple\engine\core\EngineImplTest.class
